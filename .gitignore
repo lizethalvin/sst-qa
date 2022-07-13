@@ -1,0 +1,6 @@
+.idea/
+target/
+**/.DS_Store
+test-output/
+.env
+upload_report.py
